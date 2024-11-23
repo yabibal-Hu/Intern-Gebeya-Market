@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "French Kiss Bag",
+      "img": "/src/assets/img/french_kiss_bag.png",
+      "categoryId": 2,
+      "categoryName": "Women",
+      "unique": "ALDO",
+      "price": 500,
+      "description": "A stylish and compact bag perfect for everyday use.",
+      "overview": [
+        "Made with premium leather",
+        "Available in multiple colors",
+        "Compact yet spacious",
+        "Ideal for casual and formal settings"
+      ],
+      "relatedImgs": [
+        "./assets/images/related/related1.png",
+        "./assets/images/related/related2.png",
+        "./assets/images/related/related3.png",
+        "./assets/images/related/related4.png"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Burberry Shine Shoes",
+      "img": "/src/assets/img/Burberry_Shine.png",
+      "categoryId": 1,
+      "categoryName": "Kids",
+      "unique": "ALDO",
+      "price": 150,
+      "description": "Elegant and shiny shoes for a bold fashion statement.",
+      "overview": [
+        "Crafted with durable materials",
+        "Perfect for parties and events",
+        "Non-slip sole for added comfort",
+        "Available in a variety of sizes"
+      ],
+      "relatedImgs": [
+        "./assets/images/related/related5.png",
+        "./assets/images/related/related6.png",
+        "./assets/images/related/related7.png",
+        "./assets/images/related/related8.png"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Alvero Gown",
+      "img": "/src/assets/img/Alvero_Gown.png",
+      "categoryId": 3,
+      "categoryName": "Women",
+      "unique": "DIVINE",
+      "price": 300,
+      "description": "A graceful gown perfect for evening events and weddings.",
+      "overview": [
+        "Elegant design with intricate detailing",
+        "Available in several colors and sizes",
+        "Lightweight and comfortable",
+        "Perfect for special occasions"
+      ],
+      "relatedImgs": [
+        "./assets/images/related/related9.png",
+        "./assets/images/related/related10.png",
+        "./assets/images/related/related11.png",
+        "./assets/images/related/related12.png"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Shoes",
+      "img": "./assets/images/categories/shoes.png"
+    },
+    {
+      "id": 2,
+      "name": "Bag",
+      "img": "./assets/images/categories/bag.png"
+    },
+    {
+      "id": 3,
+      "name": "Jackets",
+      "img": "./assets/images/categories/jackets.png"
+    },
+    {
+      "id": 4,
+      "name": "Lingerie",
+      "img": "./assets/images/categories/lingerie.png"
+    },
+    {
+      "id": 5,
+      "name": "Belts",
+      "img": "./assets/images/categories/belts.png"
+    },
+    {
+      "id": 6,
+      "name": "Street Wear",
+      "img": "./assets/images/categories/street_wear.png"
+    },
+    {
+      "id": 7,
+      "name": "Sunglasses",
+      "img": "./assets/images/categories/sunglasses.png"
+    },
+    {
+      "id": 8,
+      "name": "Sun Wear",
+      "img": "./assets/images/categories/sun_wear.png"
+    },
+    {
+      "id": 9,
+      "name": "Hats",
+      "img": "./assets/images/categories/hats.png"
+    },
+    {
+      "id": 10,
+      "name": "Slippers",
+      "img": "./assets/images/categories/slippers.png"
+    },
+    {
+      "id": 11,
+      "name": "Wigs",
+      "img": "./assets/images/categories/wigs.png"
+    },
+    {
+      "id": 12,
+      "name": "Cosmetics",
+      "img": "./assets/images/categories/cosmetics.png"
+    }
+  ]
+}
