@@ -71,62 +71,83 @@
     {
       "id": 1,
       "name": "Shoes",
-      "img": "./assets/images/categories/shoes.png"
+      "img": "/src/assets/img/shoe.png"
     },
     {
       "id": 2,
       "name": "Bag",
-      "img": "./assets/images/categories/bag.png"
+      "img": "/src/assets/img/bag.png"
     },
     {
       "id": 3,
       "name": "Jackets",
-      "img": "./assets/images/categories/jackets.png"
+      "img": "/src/assets/img/Jacket.webp"
     },
     {
       "id": 4,
       "name": "Lingerie",
-      "img": "./assets/images/categories/lingerie.png"
+      "img": "/src/assets/img/lingrae.png"
     },
     {
       "id": 5,
       "name": "Belts",
-      "img": "./assets/images/categories/belts.png"
+      "img": "/src/assets/img/Belts.png"
     },
     {
       "id": 6,
       "name": "Street Wear",
-      "img": "./assets/images/categories/street_wear.png"
+      "img": "/src/assets/img/street_wear.png"
     },
     {
       "id": 7,
       "name": "Sunglasses",
-      "img": "./assets/images/categories/sunglasses.png"
+      "img": "/src/assets/img/sunglasses.webp"
     },
     {
       "id": 8,
       "name": "Sun Wear",
-      "img": "./assets/images/categories/sun_wear.png"
+      "img": "/src/assets/img/sun_wear.webp"
     },
     {
       "id": 9,
       "name": "Hats",
-      "img": "./assets/images/categories/hats.png"
+      "img": "/src/assets/img/hat.png"
     },
     {
       "id": 10,
       "name": "Slippers",
-      "img": "./assets/images/categories/slippers.png"
+      "img": "/src/assets/img/slippers.png"
     },
     {
       "id": 11,
       "name": "Wigs",
-      "img": "./assets/images/categories/wigs.png"
+      "img": "/src/assets/img/wigs.webp"
     },
     {
       "id": 12,
       "name": "Cosmetics",
-      "img": "./assets/images/categories/cosmetics.png"
+      "img": "/src/assets/img/costmetics.png"
     }
-  ]
+  ],
+  "kinds": [{
+    "id": 1,
+    "name": "Casual wear",
+    "img": "/src/assets/img/casual_shirt.png",
+    "quantity": 20}
+    ,{
+    "id": 2,
+    "name": " Vintage",
+    "img": "/src/assets/img/vintage_dress.png",
+    "quantity": 31}
+    ,{
+    "id": 3,
+    "name": "Beauty products",
+    "img": "/src/assets/img/beauty_products.png",
+    "quantity": 24}
+    ,{
+    "id": 4,
+    "name": "Gym wears",
+    "img": "/src/assets/img/gym_wears-removebg-preview.png",
+    "quantity": 62}
+    ]
 }

@@ -19,3 +19,9 @@ export interface Data {
   items: Item[];
   categories: Category[];
 }
+export interface Kind {
+  id: number;
+  name: string;
+  img: string;
+  quantity: number;
+}

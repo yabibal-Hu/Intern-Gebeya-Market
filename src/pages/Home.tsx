@@ -1,6 +1,8 @@
-import React from "react";
 import Banner from "../components/HomePage/Banner";
-import Product from "../components/HomePage/Item";
+import Item from "../components/HomePage/Item";
+import Collection from "../components/HomePage/Collection";
+import Blog from "../components/HomePage/Blog";
+import Category from "../components/HomePage/Category";
 
 export default function Home() {
   return (
@@ -11,8 +13,11 @@ export default function Home() {
         <Banner />
         <div className=" max-w-[1584px] mx-auto p-6 lg:p-20">
           <div className="">
-            <Product />
+            <Item />
           </div>
+          <div><Collection/></div>
+          <div><Blog/></div>
+          <div><Category/></div>
         </div>
       </div>
     </div>

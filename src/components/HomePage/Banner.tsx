@@ -1,14 +1,13 @@
-import React from "react";
 import person from "../../assets/img/person.png"
 import shoe from "../../assets/img/shoee.jpeg"
 import shirt from "../../assets/img/shirt.jpeg"
 
 export default function Banner() {
   return (
-    <section className="flex flex-col justify-center items-center bg-[#882BEC] text-white align-center ">
+    <section className="flex flex-col pt-[50px] justify-center items-center bg-[#882BEC] text-white align-center ">
       <div className="p-2 lg:p-10 py-7 grid grid-cols-3 gap-2">
         <div className="flex gap-16 flex-col items-center">
-          <p className="font-alfa-slab lg:text-9xl text-3xl font-bold ">
+          <p className="font-alfa-slab lg:text-[128px] text-3xl font-[400] ">
             Gebeya
           </p>
           <img className="w-64 lg:flex hidden rounded-full" src={shoe} alt="" />
@@ -26,7 +25,7 @@ export default function Banner() {
             Discover a world of convenience with our user-friendly platform,
             curaated collections, and exceptional customer service
           </p>
-          <p className="font-alfa-slab lg:text-9xl text-3xl font-bold ">SHOP</p>
+          <p className="font-alfa-slab lg:text-[128px] text-3xl font-[400] ">SHOP</p>
           <img
             className="w-64 lg:flex hidden rounded-full"
             src={shirt}
